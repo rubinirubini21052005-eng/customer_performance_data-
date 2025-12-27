@@ -1,0 +1,21 @@
+employee_id,employee_name,department,designation,location,joining_date,monthly_salary,sales_amount,month,performance_rating
+1,Abi,Sales,Sales Executive,Chennai,1/5/2023,25000,180000,Jan,4
+2,Arun,Sales,Sales Executive,Bangalore,1/10/2023,26000,150000,Jan,3
+3,Meera,Marketing,Marketing Analyst,Mumbai,2/15/2022,30000,120000,Jan,4
+4,Karthik,HR, HR Executive,Hyderabad,3/20/2021,28000,0,Jan,5
+5,Priya,Sales,Senior sales executive,Delhi,4/10/2020,40000,220000,Jan,5
+6,Rahul,IT,Data Analyst,Chennai,5/18/2022,45000,0,Jan,4
+7,Sneha,Marketing,Marketing Analyst,Pune,6/1/2023,27000,100000,Feb,3
+8,Vikram,Sales,Sales Executive,Mumbai,6/12/2023,26000,140000,Feb,3
+9,Aisha,HR,HR Manager,Delhi,7/22/2019,50000,0,Feb,5
+10,Ramesh,Sales,Senior sales executive,Bangalore,8/15/2021,42000,21000,Feb,5
+11,Kavya,Marketing,Marketing Analyst,Chennai,9/5/2022,31000,130000,Mar,4
+12,Ajay,Sales,Sales Executive,Hyderabad,10/10/2023,25000,16000,Mar,4
+13,Nisha,IT,Data Analyst,Pune,10/20/2023,45000,0,Mar,4
+14,Rohit,Sales,Sales Executive,Chennai,11/1/2023,26000,150000,Mar,3
+15,Divya,Marketing,Marketing Analyst,Bangalore,11/15/2023,28000,110000,Mar,4
+16,Manoj,Sales,Senior sales executive,Mumbai,12/10/2022,40000,200000,Apr,5
+17,kiran,HR,HR Executive,Delhi,1/5/2023,28000,0,Apr,4
+18,Sam,Sales,Sales Executive,Chennai,2/20/2023,25000,170000,Apr,4
+19,Sakthi,Marketing,Marketing Analyst,Pune,3/10/2023,30000,120000,Apr,3
+20,Ram,IT,Data Analyst,Bangalore,4/18/2023,45000,0,Apr,4
